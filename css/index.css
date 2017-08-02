@@ -1,0 +1,72 @@
+.box {
+	width: 100%;
+	height: auto;
+	background: #4a444f;
+}
+.up {
+	margin: 1.92rem auto .54rem 35%;
+	width: 1.88rem;
+	height: 1.88rem;
+}
+.uc {
+	width: 85%;
+	height: .86rem;
+	margin-left: 7.5%;
+	border-radius: .06rem;
+	/*background: #cec5c1;*/
+	background: #fff;
+	border: 0;
+	font-size: .18rem;
+	padding-left: .21rem;
+	color: red;
+}
+.uname {
+	margin-bottom: .22rem;
+}
+.upass {
+	margin-bottom: .27rem;
+}
+.rem {
+	margin-bottom: 1.53rem;
+	margin-left: 7.5%;
+}
+.rem img {
+	width: .25rem;
+	height: .21rem;
+	margin-right: .17rem;
+}
+.rem span {
+	height: .21rem;
+	font-size: .13rem;
+	line-height: .21rem;
+	color: #d9d5d5;
+}
+.sc {
+	width: 42.5%;
+	height: .6rem;
+	margin-left: 28.75%;
+	background: #7d7676;
+	border: 1px solid #fff;
+	font-size: .21rem;
+	line-height: .6rem;
+	color: #fffffe;
+}
+.signin {
+	margin-bottom: .23rem;
+}
+.signup {
+	margin-bottom: .2rem;
+}
+.for {
+	height: .15rem;
+	width: 100%;
+	line-height: .15rem;
+	font-size: .12rem;
+	color: #f8f6f6;
+	margin-bottom: .74rem;
+}
+.icon {
+	width: 2.23rem;
+	height: .56rem;
+	margin: 0 auto .36rem 32%;
+}
