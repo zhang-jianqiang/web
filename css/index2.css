@@ -1,0 +1,40 @@
+body {
+	background-image: url(../img/bg.jpg);
+	background-size: 100% 100%;
+	width: 100%;
+	height: 100%;
+}
+.top {
+	margin-top: 1.74rem;
+}
+.one {
+	overflow: hidden;
+	width: 4.7rem;
+	margin: 0 auto;
+	margin-bottom: .9rem;
+}
+.one:last-child {
+	margin-bottom: .3rem;
+}
+img{
+	width: 1.5rem;
+	height: 1.63rem;
+}
+.com {
+	width: 50%%;
+}
+.ttop {
+	margin-bottom: .26rem;
+}
+.tbot span {
+	font-size: .3rem;
+}
+.bot {
+	margin: auto;
+	text-align: center;
+}
+.bot img {
+	width: 1.4rem;
+	height: 1.4rem;
+	margin-bottom: .87rem;
+}

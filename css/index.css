@@ -13,12 +13,10 @@
 	height: .86rem;
 	margin-left: 7.5%;
 	border-radius: .06rem;
-	/*background: #cec5c1;*/
-	background: #fff;
+	background: #cec5c1;
 	border: 0;
 	font-size: .18rem;
 	padding-left: .21rem;
-	color: red;
 }
 .uname {
 	margin-bottom: .22rem;
